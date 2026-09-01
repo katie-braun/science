@@ -142,10 +142,10 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-layout-panel" data-layout-ncol="3">
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><a href="../img/IMG_0981.JPG" class="lightbox" data-gallery="my-gallery" data-description="Coring!"><img src="../img/IMG_0981.JPG" class="img-fluid"></a></p>
+<p><a href="../img/IMG_0981.JPG" class="lightbox" data-description="Coring!" data-gallery="my-gallery"><img src="../img/IMG_0981.JPG" class="img-fluid"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><a href="../img/IMG_1315.JPG" class="lightbox" data-gallery="my-gallery" data-description="Caribou
+<p><a href="../img/IMG_1315.JPG" class="lightbox" data-description="Caribou
 
 in
 
@@ -159,10 +159,10 @@ the
 
 Dalton
 
-Highway"><img src="../img/IMG_1315.JPG" class="img-fluid"></a></p>
+Highway" data-gallery="my-gallery"><img src="../img/IMG_1315.JPG" class="img-fluid"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><a href="../img/ponds.JPG" class="lightbox" data-gallery="my-gallery" data-description="Tundra
+<p><a href="../img/ponds.JPG" class="lightbox" data-description="Tundra
 
 ponds
 
@@ -178,12 +178,12 @@ Observatory
 
 in
 
-Utqiagvik"><img src="../img/ponds.JPG" class="img-fluid"></a></p>
+Utqiagvik" data-gallery="my-gallery"><img src="../img/ponds.JPG" class="img-fluid"></a></p>
 </div>
 </div>
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><a href="../img/shadow.JPG" class="lightbox" data-gallery="my-gallery" data-description="Quality
+<p><a href="../img/shadow.JPG" class="lightbox" data-description="Quality
 
 tundra
 
@@ -193,10 +193,10 @@ with
 
 the
 
-DGPS"><img src="../img/shadow.JPG" class="img-fluid"></a></p>
+DGPS" data-gallery="my-gallery"><img src="../img/shadow.JPG" class="img-fluid"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><a href="../img/IMG_9874.JPG" class="lightbox" data-gallery="my-gallery" data-description="Gail
+<p><a href="../img/IMG_9874.JPG" class="lightbox" data-description="Gail
 
 and
 
@@ -212,10 +212,10 @@ from
 
 Ptarmigan
 
-Pond"><img src="../img/IMG_9874.JPG" class="img-fluid"></a></p>
+Pond" data-gallery="my-gallery"><img src="../img/IMG_9874.JPG" class="img-fluid"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><a href="../img/bubble.JPG" class="lightbox" data-gallery="my-gallery" data-description="Prepping
+<p><a href="../img/bubble.JPG" class="lightbox" data-description="Prepping
 
 field
 
@@ -227,12 +227,12 @@ sample
 
 pond
 
-methane"><img src="../img/bubble.JPG" class="img-fluid"></a></p>
+methane" data-gallery="my-gallery"><img src="../img/bubble.JPG" class="img-fluid"></a></p>
 </div>
 </div>
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><a href="../img/drone.JPG" class="lightbox" data-gallery="my-gallery" data-description="Drones!
+<p><a href="../img/drone.JPG" class="lightbox" data-description="Drones!
 
 Setting
 
@@ -246,10 +246,10 @@ system
 
 in
 
-Atqasuk"><img src="../img/drone.JPG" class="img-fluid"></a></p>
+Atqasuk" data-gallery="my-gallery"><img src="../img/drone.JPG" class="img-fluid"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><a href="../img/IMG_0361.JPG" class="lightbox" data-gallery="my-gallery" data-description="Halle
+<p><a href="../img/IMG_0361.JPG" class="lightbox" data-description="Halle
 
 taking
 
@@ -267,12 +267,12 @@ chamber-based
 
 carbon
 
-flux"><img src="../img/IMG_0361.JPG" class="img-fluid"></a></p>
+flux" data-gallery="my-gallery"><img src="../img/IMG_0361.JPG" class="img-fluid"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><a href="../img/IMG_0521.JPG" class="lightbox" data-gallery="my-gallery" data-description="Mosquito-safe
+<p><a href="../img/IMG_0521.JPG" class="lightbox" data-description="Mosquito-safe
 
-lunch"><img src="../img/IMG_0521.JPG" class="img-fluid"></a></p>
+lunch" data-gallery="my-gallery"><img src="../img/IMG_0521.JPG" class="img-fluid"></a></p>
 </div>
 </div>
 </div>
@@ -682,7 +682,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","openEffect":"zoom","descPosition":"bottom","loop":false,"selector":".lightbox"});
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","closeEffect":"zoom","loop":false,"openEffect":"zoom","descPosition":"bottom"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;

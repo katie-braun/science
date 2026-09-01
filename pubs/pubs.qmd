@@ -1,0 +1,78 @@
+
+# Publications
+## 2025
+
+Mattheus, C.R., Theuerkauf, E.F., **Braun, K.N.,** 2025. Response of a sand-limited urban pocket beach to repeat decadal lake-level rise events, Southwestern Lake Michigan. *Journal of Great Lakes Research.* <https://10.1016/j.jglr.2024.102501>
+<hr> 
+## 2024
+
+**Braun, K.N.**, Andresen, C.G. 2024. Heterogeneity in ice-wedge permafrost revealed across spatial scales. *Remote Sensing of Envrionment.* <https://doi.org/10.1016/j.rse.2024.114299>
+
+<ul>
+  <li>My Master's thesis! My goal was to combine geospatial analysis, drone data, and fieldwork to better understand the spatial patterns in permafrost thaw.</li> 
+  <li>Mapped hot and cold spots of ice-wedge thaw in high-resolution Maxar imagery</li>
+  <li>Introduced hydrogeomorphology technique for classifying thaw stages</li>
+  <li>Found most severe thaw clusters on high elevation portions of coastal plain</li>
+</ul>
+<hr>
+Mattheus, C.R., **Braun, K.N.**, Theuerkauf, E.J. 2024. Morphodynamics and sand volumetric changes within engineered Great Lakes pocket beaches: Varied responses to a meter-scale lake-level rise, Chicago Lakefront. *Journal of Great Lakes Research.* <https://doi.org/10.1016/j.jglr.2024.102302>
+<hr>
+Mattheus, C.R., Barklage, M., **Braun, K.N.**, Theuerkauf, E.J. 2024. Stratigraphic framework study of the late Holocene Zion Beach-ridge Plain, southwestern Lake Michigan: An architectural blueprint of a migrating strand with paleoclimate implications. *Journal of Great Lakes Research.* <https://doi.org/10.1016/j.jglr.2023.102274>
+<hr>
+## 2023
+
+Mattheus, C.R., **Braun, K.N.**, Theuerkauf, E.J. 2023. The dynamics of beach-ridge formation along a migratory strandplain with implications for paleo-environmental assessment, Illinois Beach, SW Lake Michigan. *Journal of Great Lakes Research.* <https://doi.org/10.1016/j.jglr.2022.10.004>
+<hr> 
+## 2022
+
+Mattheus, C.R., Theuerkauf, E.J., **Braun K.N.** 2022. Sedimentary in-filling of an urban Great Lakes waterfront embayment and implications for threshold-driven shoreline morphodynamics, Montrose Beach, SW Lake Michigan. *Journal of Great Lakes Research.* <https://doi.org/10.1016/j.jglr.2022.06.008>
+<hr>
+**Braun, K.N.**, Mattheus, C.R., Theuerkauf, E.J. 2022. The geomorphic role of large wood in the coastal zone of the North American Great Lakes. *Geomorphology.* <https://doi.org/10.1016/j.geomorph.2022.108292>
+
+<ul>
+  <li>My last project at the Illinois State Geological Survey :') When COVID shut down fieldwork, I spent a lot of time staring at our record of drone surveys, thinking about driftwood, and devised this study to figure out if all the trees that had been felled during high water levels were impacting beach processes</li>
+  <li>Tracked a decade of coastal large wood dynamics using aerial and drone imagery </li>
+  <li>Identified common transportation pathways through coastal zone</li>
+  <li>Observed only transient, seasonal impacts on shoreline geomorphology during period of rising water level (2009-2020) </li>
+</ul>
+<hr>   
+## 2021
+
+Mattheus, C.R., **Braun, K.N.**, Theuerkauf, E.J. 2021. Great Lakes urban pocket-beach dynamics: A GIS-based analysis of infrastructure-design influences on the geomorphic development. *Journal of Great Lakes Research.* <https://doi.org/10.1016/j.jglr.2021.10.020>
+<hr>
+Mattheus, C.R., **Braun, K.N.**, Theuerkauf, E.J., Santoro, J.A. 2021. Urban pocket-beach morphodynamics along the wave-dominated southwest coast of Lake Michigan: An analysis of shoreline and sand volumetric changes. *Journal of Great Lakes Research.* <https://doi.org/10.1016/j.jglr.2021.10.009>
+<hr>
+**Braun, K.N.**, Theuerkauf, E.J. 2021. The role of short-term and long-term water level and wave variability in coastal carbon budgets. *iScience.* <https://doi.org/10.1016/j.isci.2021.102382>
+
+<ul>
+  <li>Quantified shoreline habitat's carbon budgets </li>
+  <li>Incorporated spatial variability into carbon budget model from Braun et al., 2018 </li>
+  <li>Half the carbon stored within coastal habitats was lost in 80 years of shoreline retreat</li>
+</ul>
+<hr>
+Theuerkauf, E.J., **Braun, K.N.** 2021. Rapid lake level rise drives unprecedented habitat loss in the Laurentian Great Lakes. *Journal of Great Lakes Research.* <https://doi.org/10.1016/j.jglr.2021.05.004>
+<hr>   
+Theuerkauf, E.J., Mattheus, C.R., **Braun, K.N.**, Bueno, J. 2021. Patterns and processes of beach and foredune geomorphic change along a Great Lakes shoreline: Insights from a year-long drone mapping study along Lake Michigan. *Shore & Beach.* <https://par.nsf.gov/servlets/purl/10274158>
+<hr>  
+## 2020
+
+**Braun, K.N.**, Theuerkauf, E.J., Hurtgen, M.T., Masterson, A.L., Horton, D.E., 2020. Loss-on-ignition estimates for soil organic carbon in a Great Lakes coastal wetland. *Wetlands.* <https://doi.org/10.1007/s13157-020-01270-z>
+
+<ul>
+  <li>Compared loss-on-ignition assessment of organic matter to elemental analysis measurements of soil carbon</li>
+  <li>Gathered soil samples from six southern Lake Michigan wetlands</li>
+  <li>Regression model estimated SOC from LOI within 3.5%</li>
+</ul>
+<hr> 
+## 2019
+
+Theuerkauf, E.J., **Braun, K.N.**, Nelson, D.M., Kaplan, M., Vivirito, S., and Williams, J.D., 2019. Beach and dune response to seasonal water-level rise in the Laurentian Great Lakes: Implications for coastal geomorphic response to rapid sea level rise. *Journal of Great Lakes Research.* <https://doi.org/10.1016/j.jglr.2019.09.012>
+<hr>
+**Braun, K.N.**, Theuerkauf, E.J., Masterson, A.L., Curry, B.B., Horton, D.E., 2019. Modeling organic carbon loss from a rapidly eroding freshwater coastal wetland. *Scientific Reports.* <https://doi.org/10.1038/s41598-019-40855-5>
+
+<ul>
+  <li>My senior undergraduate thesis!</li>
+  <li>Calculated carbon budget of a Lake Michigan coastal wetland using GIS, sediment coring, and elemental analysis</li>
+  <li>Site transitioned to a source of carbon due to high erosion rates of the late 2010s</li>
+</ul>
+<hr> 

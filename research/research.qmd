@@ -1,0 +1,16 @@
+::: column-screen
+![](/img/IMG_2888.JPG){.no-lightbox} 
+:::
+# Research 
+
+The surface of our planet is constantly changing, sometimes in an instant - after a flood, a landslide, a wildfire, or bulldozing - sometimes so slowly the change is imperceptible to human eyes until we use some other method to detect change. As the physical world shifts around us, the living world shifts as well. Microbial communities reassemble in response to changing environmental conditions, plants colonize and compete with each other for resources, animals search for dwindling habitat patches, and humans must adapt to these impacts. 
+
+Energy and matter are constantly moving across the surface of the earth, between reservoirs in the soil, in living biomass, in the atmosphere, in a delicate dance that climate change is increasingly disrupting. The increased input of carbon into the atmosphere through altered biogeochemical cycling is a major positive feedback to climate change. 
+
+I take an earth systems approach to addressing a range of questions at the nexus of geomorphology and ecology: How are geomorphic processes responding to changing climatic conditions? How do those changing abiotic conditions influence carbon cycling? What will a certain landscape look like in ten, fifty, a hundred or a thousand years from now? 
+
+In the Arctic and beyond, I combine process-based examinations of changing earth surface dynamics and carbon cycling with remote sensing and geospatial analysis -- this combination allows me to extend discrete field observations to broader landscape, regional, and global scales so we can better examine how climate change is altering our planet.  
+
+::: {.column-page}
+![Map of ice-wedge trough density near Prudhoe Bay, Alaska, derived from a U-Net image classifier and Maxar imagery](/img/ACP_trough_map.png){.no-lightbox} 
+:::

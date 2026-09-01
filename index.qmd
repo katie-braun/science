@@ -1,0 +1,35 @@
+---
+about:
+  template: broadside
+  image: /img/Katie.png
+  id: about-block
+  links:
+    - icon: book
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=4-7sjHIAAAAJ&hl=en&oi=ao
+    - icon: envelope
+      text: Email
+      href: "mailto:knbraun@wisc.edu"  
+    # - icon: github
+    #   text: Github
+    #   href: https://github.com/katie-braun
+---
+
+::: column-screen
+![](/img/banner.png){.no-lightbox} 
+<p style="text-align: center;">***Earth System Geography • Remote Sensing • Carbon • Permafrost • Geomorphology • Ecology***</p>
+:::
+
+
+
+:::{#about-block}
+
+Hello, I'm Katie! 
+
+I want to better understand how climate change is altering the surface of our planet and, in turn, how those changing landscapes impact carbon cycling. I've worked in a variety of landscapes, from the  shoreline of the Great Lakes to the thawing permafrost of the far North. When I'm not in the field or the lab, I'm almost certainly hanging out with my cat, [Louise](cat/cat.qmd).
+
+Please feel free to [contact me](mailto:knbraun@wisc.edu) if you have any questions, want to chat, or would like to discuss potential projects.
+
+
+:::
+

@@ -1,0 +1,26 @@
+---
+lightbox: true
+---
+
+# From the Field
+
+::: {layout-ncol=3}
+
+![](/img/IMG_0981.JPG){group="my-gallery" description="Coring!"}
+
+![](/img/IMG_1315.JPG){group="my-gallery" description="Caribou in the fog along the Dalton Highway"} 
+
+![](/img/ponds.JPG){group="my-gallery" description="Tundra ponds at the Barrow Enivronmental Observatory in Utqiagvik"} 
+
+![](/img/shadow.JPG){group="my-gallery" description="Quality tundra time with the DGPS"}
+
+![](/img/IMG_9874.JPG){group="my-gallery" description="Gail and Halle collect methane bubbles from Ptarmigan Pond"}
+
+![](/img/bubble.JPG){group="my-gallery" description="Prepping field supplies to sample pond methane"}
+
+![](/img/drone.JPG){group="my-gallery" description="Drones! Setting up the LiDAR system in Atqasuk"}
+
+![](/img/IMG_0361.JPG){group="my-gallery" description="Halle taking field notes while we measure chamber-based carbon flux"} 
+
+![](/img/IMG_0521.JPG){group="my-gallery" description="Mosquito-safe lunch"}
+:::

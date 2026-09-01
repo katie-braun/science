@@ -1,0 +1,32 @@
+::: column-screen
+![](/img/IMG_2888.JPG){.no-lightbox} 
+:::
+# Research Projects
+
+## NASA FINESST: Mapping Thawing Permafrost
+
+We know that the Arctic is warming over four times faster than the rest of the world, and with this warming permafrost thaws. This thaw, however, is not progressing evenly across space or time. For this project, I am using machine learning to improve our maps of thawing permafrost in ice-wedge landscapes, then use those maps to examine how ice-wedges degrade across space and time. 
+
+
+
+You can find my FINESST [abstract here](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=957105/solicitationId=%7BEA8742DF-E6E6-67E9-4D56-267EF31C1CDB%7D/viewSolicitationDocument=1/FINESST-22%20Earth%20Science%20Division%20Selections%20August%2016%202023.pdf). Scroll down!
+
+## NSF GRFP: Arctic Carbon Cycling
+
+Permafrost soils contain vast stores of soil carbon that is becoming increasingly vulnerable as permafrost thaws. My NSF-GRFP project 
+
+![Carbon cycling changing as ice wedges degrade](/img/NSF_Carbon_Conceptual.png)
+
+## Coastal Large Wood 
+![Spot the driftwood.](/img/IMG_9994.JPG)
+
+
+
+## Great Lakes Coastal Geomorphology
+![A chilly Lake Michigan beach](/img/IMG_9928.JPG)
+
+<iframe src="https://storymaps.arcgis.com/stories/23ae66b26b9a4c3daa1757a69308becc" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
+
+[Story Map](https://storymaps.arcgis.com/stories/23ae66b26b9a4c3daa1757a69308becc )
+
+

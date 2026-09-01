@@ -11,7 +11,7 @@ website:
   # start of the navigation bar at the top of the website
   navbar:
     pinned: true
-    logo: /img/logo.png
+    # logo: /img/logo.png
     search: true
     # your sub-pages
     left:

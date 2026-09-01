@@ -18,9 +18,9 @@ about:
 ::: column-screen
 ![](/img/banner.png){.no-lightbox} 
 <p style="text-align: center;">***Earth System Geography • Remote Sensing • Carbon • Permafrost • Geomorphology • Ecology***</p>
+
+
 :::
-
-
 
 :::{#about-block}
 

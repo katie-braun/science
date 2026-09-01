@@ -4,9 +4,9 @@
 website:
   title: "Katie Braun"                                # Your name
   description: "Studying the Earth from land and space"   # A brief slogan (optional)
-  image: img/Katie_Braun
+  # image: img/Katie_Braun
   
-  favicon: img/favicon.png
+  # favicon: img/favicon.png
   
   # start of the navigation bar at the top of the website
   navbar:
